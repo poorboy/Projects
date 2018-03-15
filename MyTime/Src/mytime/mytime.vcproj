@@ -19,7 +19,7 @@
 		<Configuration
 			Name="Debug|Win32"
 			OutputDirectory="..\..\bin\32\debug"
-			IntermediateDirectory="..\..\obj\32\debug\MonFileChangs"
+			IntermediateDirectory="..\..\obj\32\debug\MyTime"
 			ConfigurationType="1"
 			UseOfMFC="2"
 			CharacterSet="1"
@@ -91,7 +91,7 @@
 		<Configuration
 			Name="Release|Win32"
 			OutputDirectory="..\..\bin\Release"
-			IntermediateDirectory="..\..\obj\32\Release\MonFileChangs"
+			IntermediateDirectory="..\..\obj\32\Release\MyTime"
 			ConfigurationType="1"
 			UseOfMFC="0"
 			CharacterSet="1"
