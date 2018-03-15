@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sets>
+  <NtpS cuuId="0">
+    <item name="阿里时间服务器1" ip="ntp1.aliyun.com" ip2=""/>
+    <item name="阿里时间服务器2" ip="ntp2.aliyun.com" ip2=""/>
+    <item name="阿里时间服务器3" ip="ntp3.aliyun.com" ip2=""/>
+    <item name="阿里时间服务器4" ip="ntp4.aliyun.com" ip2=""/>
+    <item name="阿里时间服务器5" ip="ntp5.aliyun.com" ip2=""/>
+    <item name="阿里时间服务器6" ip="ntp6.aliyun.com" ip2=""/>
+    <item name="阿里时间服务器7" ip="ntp7.aliyun.com" ip2=""/>
+    <item name="东北地区网络中心" ip="s2f.time.edu.cn" ip2=""/>
+    <item name="CERNET桂林主节点" ip="s2k.time.edu.cn" ip2=""/>
+    <item name="东南大学" ip="s1d.time.edu.cn" ip2=""/>
+    <item name="北京大学1" ip="s2m.time.edu.cn" ip2=""/>
+    <item name="北京大学2" ip="s1c.time.edu.cn" ip2=""/>
+    <item name="日本 福冈大学" ip="133.100.11.8" ip2=""/>
+    <item name="北京邮电大学1" ip="s1a.time.edu.cn" ip2=""/>
+    <item name="北京邮电大学2" ip="s2c.time.edu.cn" ip2=""/>
+    <item name="国家授时中心" ip="210.72.145.44" ip2=""/>
+    <item name="上海交通大学网络中心" ip="ntp.sjtu.edu.cn" ip2="202.120.2.101"/>
+    <item name="清华大学1" ip="s1b.time.edu.cn" ip2=""/>
+    <item name="清华大学2" ip="s1e.time.edu.cn" ip2=""/>
+    <item name="清华大学3" ip="s2a.time.edu.cn" ip2=""/>
+    <item name="清华大学4" ip="s2b.time.edu.cn" ip2=""/>
+    <item name="西南地区网络中心" ip="s2d.time.edu.cn" ip2=""/>
+    <item name="西北地区网络中心" ip="s2e.time.edu.cn" ip2=""/>
+    <item name="华东南地区网络中心" ip="s2g.time.edu.cn" ip2=""/>
+    <item name="四川大学网络管理中心" ip="s2h.time.edu.cn" ip2=""/>
+    <item name="大连理工大学网络中心" ip="s2j.time.edu.cn" ip2=""/>
+    <item name="NIST, Gaithersburg, Maryland1" ip="time-a.nist.gov" ip2="129.6.15.28"/>
+    <item name="NIST, Gaithersburg, Maryland2" ip="time-b.nist.gov" ip2="129.6.15.29"/>
+    <item name="NIST, Boulder, Colorado1" ip="time-a.timefreq.bldrdoc.gov" ip2="132.163.4.101"/>
+    <item name="NIST, Boulder, Colorado2" ip="time-b.timefreq.bldrdoc.gov" ip2="132.163.4.102"/>
+    <item name="NIST, Boulder, Colorado3" ip="time-c.timefreq.bldrdoc.gov" ip2="132.163.4.103"/>
+    <item name="University of Colorado, Boulder" ip="utcnist.colorado.edu" ip2="128.138.140.44"/>
+    <item name="192.43.244.18 NCAR, Boulder, Colorado" ip="time.nist.gov" ip2="131.107.1.10"/>
+    <item name="Microsoft, Redmond, Washington" ip="time-nw.nist.gov" ip2="202.120.2.101"/>
+    <item name="Symmetricom, San Jose, California" ip="nist1.symmetricom.com" ip2="69.25.96.13"/>
+    <item name="Abovenet, Virginia" ip="nist1-dc.glassey.com" ip2="216.200.93.8"/>
+    <item name="Abovenet, New York City" ip="nist1-ny.glassey.com" ip2="208.184.49.9"/>
+    <item name="Abovenet, San Jose, California" ip="nist1-sj.glassey.com" ip2="207.126.98.204"/>
+    <item name="TrueTime, AOL facility, Sunnyvale, California" ip="nist1.aol-ca.truetime.com" ip2="207.200.81.113"/>
+    <item name="TrueTime, AOL facility, Virginia" ip="nist1.aol-va.truetime.com" ip2="64.236.96.53"/>
+  </NtpS>
+  <syncType type="1" STime="2"/>
+  <LogLevel level="2"/>
+</sets>
