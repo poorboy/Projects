@@ -73,7 +73,7 @@ void CCfgSet::InitFromCfg(void)
         m_DebugLevel = _tstoi(_xml.GetAttrib(L"level").c_str()); 
     } 
 
-    if (m_nSTime < LOG_INFOS || m_nSTime > LOG_NONE) m_nSTime = LOG_INFOS;
+    if (m_DebugLevel < LOG_INFOS || m_DebugLevel > LOG_NONE) m_DebugLevel = LOG_INFOS;
 }  
 
 
