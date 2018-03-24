@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sets>
+<NetSet UdpPort="8910" CName="电脑名称" Url="" OpenPort="0" ClosePort="0" LOpenPort="9"/>
+<LogLevel level="2"/>
+</sets>
